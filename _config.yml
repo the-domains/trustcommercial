@@ -1,0 +1,28 @@
+name: trustcommercial
+favicon: null
+layout_spectrum: 0.47542419866658747
+typography_spectrum: 0.45583367301151156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.4375036349520087
+  lightness: 0.5645912776235491
+  saturation: 0.8833521082997322
+  rhythmicContrast: 0.549060459015891
+purpose: []
